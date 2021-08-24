@@ -1,0 +1,15 @@
+Amazon Web Services:
+- Filezilla used to have control and change the actual files or add more
+- Putty to connect to the computer and have a command panel to run comands
+
+These 2 have all their settings pre-configured, so I don't need to do anything more, other than just select those options
+
+
+To start a bot:
+forever -o out.log -e err.log start index.js (can ommit the out and err logs)
+
+To stop a bot:
+forever list (find the bot in the list)
+forever stop [index] (eg forever stop 0)
+
+Instance home: https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:sort=instanceId

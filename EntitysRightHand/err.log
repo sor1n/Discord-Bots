@@ -1,0 +1,347 @@
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at abortHandshake (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:718:15)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:595:7)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:551:21)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:568:15)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:568:15)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:568:15)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:48
+								var image = pageContent('img', '.image')[0].attribs.src;
+								                                           ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:48:52)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at abortHandshake (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:718:15)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:595:7)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:551:21)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:568:15)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+(node:6855) UnhandledPromiseRejectionWarning: Error: connect ENETUNREACH 162.159.129.233:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)
+(node:6855) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:6855) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35
+					var firstResult = search('a', '.mw-search-result-heading')[0].attribs.href;
+					                                                             ^
+
+TypeError: Cannot read property 'attribs' of undefined
+    at Request._callback (/home/ubuntu/Discord Bots/EntitysRightHand/index.js:35:67)
+    at Request.self.callback (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:568:15)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at ClientRequest.req.on (/home/ubuntu/Discord Bots/EntitysRightHand/node_modules/ws/lib/websocket.js:568:15)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+(node:3531) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 162.159.130.233:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)
+(node:3531) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:3531) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:3542) UnhandledPromiseRejectionWarning: Error: getaddrinfo ENOTFOUND discordapp.com discordapp.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+(node:3542) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:3542) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.

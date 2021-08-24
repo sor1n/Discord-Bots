@@ -1,0 +1,17 @@
+{
+  "name": "onyxbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onyx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node": "^14.3.0",
+    "sequelize": "^5.21.11",
+    "sqlite3": "^4.2.0"
+  }
+}
